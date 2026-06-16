@@ -1,9 +1,10 @@
 # Parameter Manager — Privacy Policy
 
 **Version 1.0**  
-**Effective date:** [YYYY-MM-DD]  
-**Publisher:** [Publisher Name]  
-**Contact:** [support@yourdomain.com]
+Effective date: 2026-06-15
+Publisher: Gustavo Schmitt
+Contact: parameter.manager.support@gmail.com
+Website: https://xm1tt.github.io/parameter-manager/
 
 ---
 
